@@ -1,0 +1,12 @@
+name: EventManager
+version: @version@
+main: nl.manthos.eventmanager.EventManager
+api-version: 1.16
+authors: [ Manthos ]
+description: A simple event management and announcement plugin!
+website: manthos.nl
+
+commands:
+  eventmanager:
+    aliases: [events,event]
+    description: Main command.
